@@ -20,7 +20,7 @@
 
 /* Define to prevent recursive inclusion -------------------------------------*/
 #ifndef __MAIN_H
-#define __MAIN_H
+#define __MAIN_H //edited
 
 #ifdef __cplusplus
 extern "C" {
