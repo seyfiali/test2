@@ -21,7 +21,9 @@
 /* Define to prevent recursive inclusion -------------------------------------*/
 #ifndef __MAIN_H
 #define __MAIN_H
-#define test
+#define testdesk
+test github desktop
+
 #ifdef __cplusplus
 extern "C" {
 #endif
